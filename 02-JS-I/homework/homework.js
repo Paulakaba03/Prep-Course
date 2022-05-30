@@ -30,7 +30,6 @@ function devolverString(str) {
   // Tu código:
   return str;
   // return "str"; no tendria que ser así para que sea una string? 
-  
 }
 
 function suma(x, y) {
